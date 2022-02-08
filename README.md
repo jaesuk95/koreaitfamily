@@ -1,4 +1,4 @@
 # koreaitfamily
 
-INTELLIJ COMMUNITY EDITION = https://www.jetbrains.com/ko-kr/idea/download/#section=windows 
+INTELLIJ COMMUNITY EDITION = https://www.jetbrains.com/ko-kr/idea/download/#section=windows <br>
 MYSQL 435.7mb              = https://dev.mysql.com/downloads/windows/installer/8.0.html
